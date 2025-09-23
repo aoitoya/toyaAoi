@@ -38,8 +38,8 @@
 ## 📊 Github stats
 
 <!-- Bassed on: https://github.com/toyaAoi/github-readme-stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=toyaAoi&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="192px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toyaAoi&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="192px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aoitoya&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="192px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aoitoya&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="192px"/>
 
 ---
 
